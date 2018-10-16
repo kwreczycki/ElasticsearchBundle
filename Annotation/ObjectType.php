@@ -22,7 +22,7 @@ namespace ONGR\ElasticsearchBundle\Annotation;
  *
  * @deprecated Object is reserved word in PHP 7.2, it will be changed to ObjectType class
  */
-final class Object
+final class ObjectType
 {
     const NAME = 'object';
 
